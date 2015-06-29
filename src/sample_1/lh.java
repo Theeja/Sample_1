@@ -11,5 +11,9 @@ package sample_1;
  * @author Theeja
  */
 public class lh {
+    public static void main(String[] args) {
+        
+        System.out.println("Lahiru");
+    }
     
 }
